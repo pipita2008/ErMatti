@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+}
+
+.linkchatq{
+    background-color: azure;
+
+}
+
+.sfondofoot{
+    background-color: grey;
+}
+/* linea footer*/
+.hrfoot{
+    color: whitesmoke;
+}
+
+.titoliFoot{
+    color: white;
+    font-weight: bold;
+}
+.descrizioneFoot{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-align: left;
+    
+}
+
+.contsfondo{
+    background-color: white;
+    color: white;
+
+}
+.contTitolo{
+    color: black;
+    text-align: left;
+    font-style: italic;
+}
+.contDesc{
+    color: black;
+    text-align: left;
+}
+
+.lineacontatti{
+    color: black;
+}
+.menupagina2{
+    text-align: left;
+}
+
+.presentazione{
+    text-align: center;
+
+}
